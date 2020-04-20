@@ -1,0 +1,9 @@
+INSERT | 1 | sofa set | sofa | 900.99 | www.sofa.com
+MODIFY | 1 | Chair set | Chair | 500 | www.chair.com
+PRINT | 1
+SEARCH | 1
+INSERT | 2 | table big | table | 50000.00 | www.table.coms
+DELETE | 4
+INSERT | 23 | lebron chair | chair | 23000 | www.king23.com
+DELETE | 23 
+INSERT | 

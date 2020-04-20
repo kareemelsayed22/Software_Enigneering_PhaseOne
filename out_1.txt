@@ -1,0 +1,16 @@
+2020-02-26 09:37:59 | PRINT |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-02-26 09:37:59 | MODIFY |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-02-26 09:38:00 | PRINT |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-02-26 09:39:38 | MODIFY |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-02-26 09:39:38 | PRINT |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-02-26 09:39:38 | SEARCH |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-02-26 09:39:38 | INSERT |  2  |  table big  |  table  |  50000.00  |  www.table.coms
+2020-02-26 09:39:38 | INSERT |  2  |  table big  |  table  |  50000.00  |  www.table.coms
+2020-03-02 23:51:32 | MODIFY |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-03-02 23:51:32 | PRINT |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-03-02 23:51:32 | SEARCH |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-03-02 23:51:32 | INSERT |  23  |  lebron chair  |  chair  |  23000  |  www.king23.com
+2020-03-03 16:49:22 | MODIFY |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-03-03 16:49:22 | PRINT |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-03-03 16:49:22 | SEARCH |  1  |  Chair set  |  Chair  |  500  |  www.chair.com
+2020-03-03 16:49:22 | DELETE |  23  |  lebron chair  |  chair  |  23000  |  www.king23.com
